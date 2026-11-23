@@ -1,0 +1,15 @@
+
+# Configuracion de Eclipse
+.metadata/
+
+# Archivos temporales
+*.tmp
+*.bak
+*.swp
+
+# Archivos compilados Java
+*.class
+
+# Carpetas de compilacion
+bin/
+
