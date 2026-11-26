@@ -20,7 +20,7 @@ public class ContarVocales {
 		
 		for (int i=0; i < palabra.length(); i++) {
 		
-			char letra = palabra.charAt(i);
+			char letra = Character.toLowerCase(palabra.charAt(i));
 			
 			if (letra == 'a' || letra == 'e' || letra == 'i' || letra == 'o' || letra == 'u') {
 				
