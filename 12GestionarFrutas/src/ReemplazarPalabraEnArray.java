@@ -29,7 +29,7 @@ public class ReemplazarPalabraEnArray {
 		}
 			
 		sc.close();
-	}
+	} 
 	
 	public static void reemplazarFruta(String[]frutas, String nuevaFruta, String reemplazada) {
 		
